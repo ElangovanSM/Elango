@@ -1,0 +1,396 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	margin:0;
+	padding:0;
+}
+.navibg
+{
+	Width: 100%;
+	height: 70px;
+	background-color: #ADBC9F;
+	float: left;
+	}
+nav
+{
+	width: 1280px;
+	height: 70px;
+	margin:0 0 0 105px;
+	float: left;	
+}
+nav ul
+{
+	margin-left: 178px;
+	list-style: none;
+	font-family: montserrat;
+}
+nav ul li
+{
+	margin-top: 26px;
+	float: left;
+	margin-right: 35px;
+}
+nav ul li a
+{
+	color: #000000;
+	text-decoration: none;
+}
+#location
+{
+	float: right;
+	margin-right: 19px;
+	margin-top: 25px;
+	cursor: pointer;
+}
+#location ul{
+	list-style: none;
+}
+#location ul li
+{
+	float: left;
+	margin-right: 19px;	
+}
+
+#banner
+{
+  width: 100%;
+  height: 778px;
+  overflow: hidden;  
+}
+#banner p
+{
+	font-family: "Trajan Pro 3";
+	font-size: 52px;
+	float: left;
+	margin-left: 124px 0 0 821px;
+	color: #
+	
+}
+.top{
+	width: 100%;
+	float: left;
+	text-align: center;
+	text-decoration: none;
+    font-family: montserrat;
+	font-size: 24px;
+	margin-top: 80px;
+	color: #436850;
+	}
+.box{
+	width: 207px;
+	height: 296px;
+	background-color: #fff;
+	float: left;
+	margin-top: 70px;
+	margin-left: 180px;
+}
+.box h4
+{
+	color: #000;
+	text-decoration: none;
+	font-family: montserrat;
+	font-size: 16px;
+	text-align: center;
+	margin-top: 13px;
+}
+.box h5
+{
+    color: #000;
+	text-decoration: none;
+	font-family: montserrat;
+	font-size: 14px;	
+	text-align: center;
+	margin-top: 7px;
+}
+.box input[type="button"]
+{
+	width: 148px;
+	height: 30px;
+	border-radius: 15px;
+	border: none;
+	background-color: #12372A;
+	color: #fff;
+	margin-top: 12px;
+	font-family: montserrat;
+	font-size: 14px;
+	cursor: pointer;
+	margin-left: 29px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+}
+.new
+{	width: 100%;
+	float: left;
+	text-align: center;
+	font-family: montserrat;
+	font-size: 24px;
+	margin-top: 1480px;
+	color: #436850; 
+}
+.rectangle
+{
+	width: 890px;
+	height: 400px;
+	float: left;
+	margin-top: 91px;
+	background-color: #ADBC9F;
+}
+.para
+{
+	float: right;
+	font-family: montserrat;
+	font-size: 24px;
+	text-align: center;
+	margin-top: 210px;
+	margin-right: 200px;
+}
+.para input[type="button"]
+{
+	width: 148px;
+	height: 30px;
+	border-radius: 15px;
+	border: none;
+	background-color: #12372A;
+	color: #fff;
+	margin-top: 33px;
+	font-family: montserrat;
+	font-size: 14px;
+	cursor: pointer;
+	margin-left: 18px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+	}
+.best
+{
+	width: 100%;
+	float: left;
+	text-align: center;
+	font-family: montserrat;
+	font-size: 24px;
+	margin-top: 150px;
+	color: #436850;
+	}
+.rect1
+{
+	width: 890px;
+	height: 400px;
+	float: left;
+	margin-top: 91px;
+	background-color: #ADBC9F;
+}
+.para2
+{
+float: right;
+	font-family: montserrat;
+	font-size: 24px;
+	text-align: center;
+	margin-top: 210px;
+	margin-right: 200px;	
+}
+.para2 input[type="button"]
+{
+	width: 148px;
+	height: 30px;
+	border-radius: 15px;
+	border: none;
+	background-color: #12372A;
+	color: #fff;
+	margin-top:33px;
+	font-family: montserrat;
+	font-size: 14px;
+	cursor: pointer;
+	margin-left: 18px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+	}
+.shop
+{
+    width: 100%;
+	float: left;
+	text-align: center;
+	font-family: montserrat;
+	font-size: 24px;
+	margin-top: 150px;
+	color: #436850;	
+}
+.cate
+{
+    float: left;
+	margin: 70px 0 0 350px;
+	border: none;
+	cursor: pointer;
+	}
+.why
+{
+	width: 100%;
+	float: left;
+	text-align: center;
+	font-family: montserrat;
+	font-size: 24px;
+	margin-top: 100px;
+	color: #436850;
+}
+.icon
+{
+	width: 350px;
+	float: left;
+	margin-left: 190px;	
+	margin-top: 70px;
+	}
+.icon h3
+{	
+	font-family: montserrat;
+	font-size: 20px;
+	color: #12372A;
+	margin-top: 30px;
+}
+.icon p
+{
+	font-family: montserrat;
+	font-size: 14px;
+	text-align: left;
+	margin-top: 5px;	
+}
+.footerbg
+{
+	width: 100%;
+	height: 410px;
+	background: url("images/Rectangle 68.png");
+	float: left;
+	margin-top: 80px;
+	}
+.stay{
+	float: left;
+	font-size: 16px;
+	margin: 30px 0 0 150px;
+}
+.stay h2
+{
+	font-family: montserrat;
+	font-size: 14;
+	color: #FFFFFF;
+}
+.stay h3
+{
+	font-family: montserrat;
+	font-size: 14;
+	margin-top: 19px;
+	margin-bottom: 22px;
+	color: #FFFFFF;
+}
+.stay p
+{
+	font-family: montserrat;
+	color: #FFFFFF;
+	font-size: 14;
+}
+.btn
+{
+	width: 300px;
+	height: 40px;
+	position: relative;
+		margin-top: 30px;
+
+}
+.btn input[type="text"]
+{
+	width: 300px;
+	height: 40px;
+	font-family: montserrat;
+}
+.btn input[type="button"]
+{
+	background: url("images/Group 38.png") no-repeat;
+	width: 34px;
+	height: 25px;
+	border: none;
+	position: absolute;
+	top: 9px;
+	right: 0;	
+}
+.other
+{
+	float: left;
+	}
+.other h2
+{
+	font-family: montserrat;
+	color: #FFFFFF;
+	margin: 30px 0 0 150px;
+}
+.other p
+{
+	font-family: montserrat;
+	color: #FFFFFF;
+	font-size: 14px;
+	margin-left: 150px;
+	margin-top: 20px;
+}
+.policies
+{
+	float: left;
+	margin-top: 30px;
+}
+.policies h2
+{ 
+	font-family: montserrat;
+	color: #FFFFFF;
+	margin-left: 200px;
+}
+.policies p
+{
+	font-family: montserrat;
+	color: #FFFFFF;
+	font-size: 14px;
+	margin-left: 200px;
+	margin-top: 20px;
+}
+.support
+{
+	float: left;
+	margin-top: 30px;
+}
+.support h2
+{
+	font-family: montserrat;
+	color: #FFFFFF;
+	margin-left: 200px;
+}
+.support p
+{
+	font-family: montserrat;
+	color: #FFFFFF;
+	font-size: 14px;
+	margin-left: 200px;
+	margin-top: 20px;	
+}
+.find
+{
+float: left;
+	}
+.find h2
+{
+	float: left;
+	font-family: montserrat;
+	color: #FFFFFF;
+	text-align: center;
+	margin-left: 800px;
+}
+.img
+{
+	
+	float: left;
+	margin-left: 770px;
+	margin-top: 20px;
+	cursor: pointer;
+}
+.copy
+{
+	width: 100%;
+	float: left;
+	font-family: montserrat;
+	font-size: 14px;
+	color: #FFFFFF;
+	margin-top: 20px;
+	text-align: center;
+}
+
+
